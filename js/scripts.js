@@ -1,7 +1,7 @@
-                  // back end
+var romanize = function(input) {
+  return input;
+};
 
-
-                  // front end
 $(document).ready(function() {
   $('form#input').submit(function(event) {
     event.preventDefault();
